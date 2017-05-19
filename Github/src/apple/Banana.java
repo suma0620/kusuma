@@ -7,7 +7,6 @@ public class Banana {
 		// TODO Auto-generated method stub
 		System.out.println("hello world ");
 		System.out.println("hello world Im kusuma");
-		System.out.println(" kusuma");
 
 	}
 
